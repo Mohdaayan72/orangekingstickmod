@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orange King's Stick Mod</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #FF6600; /* Orange color for the Orange King's theme */
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Orange King's Stick Mod</h1>
+        <p>Welcome to the official page for the Orange King's Stick Mod for Minecraft!</p>
+        <h2>Abilities:</h2>
+        <ul>
+            <li><strong>Massive Damage:</strong> Deals powerful damage to enemies.</li>
+            <li><strong>Knockback:</strong> Sends enemies flying upon impact.</li>
+            <li><strong>Slowness Effect:</strong> Slows enemies after being hit.</li>
+            <li><strong>Minion Summon:</strong> Summons minions to fight alongside you.</li>
+            <li><strong>Ground Smash:</strong> Creates a shockwave that knocks back enemies.</li>
+            <li><strong>Flight:</strong> Temporarily grants the player flight.</li>
+        </ul>
+        <h2>How to Install:</h2>
+        <p>To install the Orange King's Stick Mod, follow these steps:</p>
+        <ol>
+            <li>Download the mod <a href="https://github.com/yourusername/OrangeKingsStickMod/releases" target="_blank">here</a>.</li>
+            <li>Place the .jar file in the 'mods' folder of your Minecraft directory.</li>
+            <li>Launch Minecraft with the Forge mod loader.</li>
+        </ol>
+        <h2>GitHub Repository</h2>
+        <p>For more information and the latest updates, visit the repository on GitHub:</p>
+        <a href="https://github.com/yourusername/OrangeKingsStickMod" target="_blank">Orange King's Stick Mod Repository</a>
+    </div>
+</body>
+</html>
